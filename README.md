@@ -1,0 +1,1 @@
+The streamlit app displays a dataframe that contains different products and it allows  us to filter categories by using a sidebar with a dropdown to select the categories and the filtered dataframe is displayed .
